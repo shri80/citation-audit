@@ -112,6 +112,14 @@
     "zip": "#listing_postal_code"
   }
 
+    
+  "service.opendi.us": {
+    "businessName": "#company",
+    "contactName": "#contactName",
+    "description": "#companyDesc"
+  }
+
+
 
 
 
