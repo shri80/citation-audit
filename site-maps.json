@@ -149,5 +149,22 @@
     "website": "#contact_general_user_71-element-27",
     "zip": "#contact_general_user_71-element-24"
   }
+    
+  "macraesbluebook.com": {
+    "address": "#addr",
+    "businessName": "#company_name",
+    "city": "#sel_city",
+    "country": "#country",
+    "description": "#prod_descr",
+    "email": "#email",
+    "phone": "#phone",
+    "website": "#web",
+    "zip": "#zip"
+  }
+
+
+
+
+    
   }
 }
