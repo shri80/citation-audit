@@ -22,10 +22,11 @@
   }
 
     
+  
   "ibegin.com": {
     "address": "input[name=\"address\"]",
     "businessName": "input[name=\"name\"]",
-    "category": "#id_category3",
+    "category": "#id_category1",
     "city": "#city",
     "country": "#country",
     "description": "textarea[name=\"desc\"]",
@@ -35,6 +36,7 @@
     "website": "input[name=\"url\"]",
     "zip": "input[name=\"zip\"]"
   }
+
     
 
   "callupcontact.com": {
