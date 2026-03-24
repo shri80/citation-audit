@@ -21,6 +21,21 @@
     "phone": "input[name=\"tel3\"]",
     "website": "input[name=\"website\"]"
   }
+    
+  "ibegin.com": {
+    "address": "input[name=\"address\"]",
+    "businessName": "input[name=\"name\"]",
+    "category": "#id_category3",
+    "city": "#city",
+    "country": "#country",
+    "description": "textarea[name=\"desc\"]",
+    "facebook": "input[name=\"facebook\"]",
+    "phone": "input[name=\"phone\"]",
+    "state": "#region",
+    "website": "input[name=\"url\"]",
+    "zip": "input[name=\"zip\"]"
+  }
+
 
 
   }
