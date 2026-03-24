@@ -210,6 +210,24 @@
     "youtube": "#member_contact_details_317-element-37",
     "zip": "#member_contact_details_317-element-30"
   }
+    
+  "uzahighstreet.com": {
+    "address": "#member_contact_details_312-element-22",
+    "businessName": "#member_contact_details_312-element-14",
+    "city": "#member_contact_details_312-element-23",
+    "contactName": "#member_contact_details_312-element-10",
+    "country": "#member_contact_details_312-element-25",
+    "description": "#member_contact_details_312-element-16",
+    "email": "#member_contact_details_312-element-12",
+    "facebook": "#member_contact_details_312-element-34",
+    "instagram": "#member_contact_details_312-element-38",
+    "phone": "#member_contact_details_312-element-13",
+    "state": "#member_contact_details_312-element-24",
+    "website": "#member_contact_details_312-element-31",
+    "youtube": "#member_contact_details_312-element-37",
+    "zip": "#member_contact_details_312-element-28"
+  }
+
 
  
 
