@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-03-24",
+  "sites": {
+    
+  "place123.net": {
+    "address": "#street",
+    "businessName": "#name",
+    "category": "#cat",
+    "city": "#city",
+    "country": "#country",
+    "zip": "#zip"
+  }
+
+  }
+}
