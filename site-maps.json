@@ -177,6 +177,22 @@
     "youtube": "#member_contact_details_312-element-37",
     "zip": "#member_contact_details_312-element-28"
   }
+  
+  "perrysplacepromotions.org": {
+    "address": "#member_contact_details_83-element-21",
+    "businessName": "#member_contact_details_83-element-11",
+    "city": "#member_contact_details_83-element-22",
+    "contactName": "#member_contact_details_83-element-9",
+    "country": "#member_contact_details_83-element-24",
+    "email": "#member_contact_details_83-element-15",
+    "facebook": "#member_contact_details_83-element-35",
+    "instagram": "#member_contact_details_83-element-38",
+    "phone": "#member_contact_details_83-element-14",
+    "state": "#member_contact_details_83-element-23",
+    "website": "#member_contact_details_83-element-30",
+    "youtube": "#member_contact_details_83-element-32",
+    "zip": "#member_contact_details_83-element-27"
+  }
 
  
 
