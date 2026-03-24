@@ -83,6 +83,18 @@
     "zip": "#_r_13_-form-item"
   }
 
+  "qdexx.com": {
+    "address": "#Input_BusinessProfile_StreetAddress",
+    "businessName": "#Input_BusinessProfile_BusinessName",
+    "city": "#Input_BusinessProfile_City",
+    "contactName": "#Input_BusinessProfile_ProfessionalsName",
+    "description": "#Input_BusinessProfile_About",
+    "email": "#Input_BusinessProfile_Email",
+    "phone": "#Input_BusinessProfile_Phone",
+    "website": "#Input_BusinessProfile_Website",
+    "zip": "#Input_BusinessProfile_PostalCode"
+  }
+
 
 
 
