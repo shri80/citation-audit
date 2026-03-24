@@ -35,6 +35,22 @@
     "website": "input[name=\"url\"]",
     "zip": "input[name=\"zip\"]"
   }
+    
+  "callupcontact.com": {
+    "address": "input[name=\"street2\"]",
+    "businessName": "input[name=\"first_name\"]",
+    "city": "input[name=\"city\"]",
+    "country": "input[placeholder=\"Country search\"]",
+    "description": "textarea[name=\"description\"]",
+    "email": "input[name=\"email\"]",
+    "hours": "textarea[name=\"operatinghours\"]",
+    "keywords": "input[name=\"keywords\"]",
+    "phone": "input[name=\"mobile\"]",
+    "state": "input[name=\"region\"]",
+    "website": "input[name=\"website\"]",
+    "zip": "#postal_code"
+  }
+
 
 
 
