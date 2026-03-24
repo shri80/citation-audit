@@ -11,8 +11,7 @@
     "country": "#country",
     "zip": "#zip"
   }
-    
-  "globeconnected.com": {
+    "globeconnected.com": {
     "address": "textarea[name=\"address\"]",
     "businessName": "#dir-name",
     "description": "textarea[name=\"description\"]",
@@ -21,6 +20,7 @@
     "phone": "input[name=\"tel3\"]",
     "website": "input[name=\"website\"]"
   }
+
     
   "ibegin.com": {
     "address": "input[name=\"address\"]",
