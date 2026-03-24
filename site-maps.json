@@ -94,6 +94,23 @@
     "website": "#Input_BusinessProfile_Website",
     "zip": "#Input_BusinessProfile_PostalCode"
   }
+ 
+  "citysquares.com": {
+    "address": "#listing_address2",
+    "businessName": "#listing_name",
+    "category": "#listing_category_id",
+    "city": "#cities_select",
+    "description": "#listing_description",
+    "email": "#email_0",
+    "facebook": "#listing_facebook",
+    "hours": "#listing_hours_text",
+    "keywords": "#listing_keywords",
+    "phone": "#listing_phone_numbers_attributes_0_formatted",
+    "state": "#states_select",
+    "website": "#url_0",
+    "youtube": "#video_0",
+    "zip": "#listing_postal_code"
+  }
 
 
 
