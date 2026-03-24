@@ -11,6 +11,17 @@
     "country": "#country",
     "zip": "#zip"
   }
+    
+  "globeconnected.com": {
+    "address": "textarea[name=\"address\"]",
+    "businessName": "#dir-name",
+    "description": "textarea[name=\"description\"]",
+    "email": "input[name=\"email\"]",
+    "keywords": "input[name=\"keywords\"]",
+    "phone": "input[name=\"tel3\"]",
+    "website": "input[name=\"website\"]"
+  }
+
 
   }
 }
