@@ -70,6 +70,20 @@
     "zip": "#pincode"
   }
 
+    
+  "brownbook.net": {
+    "address": "#_r_v_-form-item",
+    "businessName": "#_r_t_-form-item",
+    "city": "#_r_10_-form-item",
+    "email": "#_r_17_-form-item",
+    "facebook": "#_r_1c_-form-item",
+    "instagram": "#_r_1d_-form-item",
+    "phone": "#_r_15_-form-item",
+    "website": "#_r_18_-form-item",
+    "zip": "#_r_13_-form-item"
+  }
+
+
 
 
 
