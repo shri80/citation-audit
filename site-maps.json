@@ -51,6 +51,23 @@
     "website": "input[name=\"website\"]",
     "zip": "input[name=\"ppostal_code\"]"
   }
+    
+  "freelistingusa.com": {
+    "address": "#listing-address",
+    "businessName": "input[name=\"listing_title\"]",
+    "category": "#myInput",
+    "city": "#listing-city",
+    "description": "textarea[name=\"listing_content\"]",
+    "email": "input[name=\"b_email\"]",
+    "facebook": "input[name=\"facebook\"]",
+    "instagram": "input[name=\"instagram\"]",
+    "phone": "input[name=\"phone\"]",
+    "state": "#listing-state",
+    "website": "input[name=\"website\"]",
+    "youtube": "input[name=\"youtube\"]",
+    "zip": "#pincode"
+  }
+
 
 
 
