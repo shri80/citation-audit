@@ -71,6 +71,13 @@
     "website": "input[name=\"website\"]",
     "zip": "input[name=\"ppostal_code\"]"
   }
+
+    
+  "everymerchantnetwork.wufoo.com": {
+    "businessName": "#Field1",
+    "description": "#Field3"
+  }
+
     
   "freelistingusa.com": {
     "address": "#listing-address",
