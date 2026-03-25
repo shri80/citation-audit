@@ -11,6 +11,24 @@
     "country": "#country",
     "zip": "#zip"
   }
+   
+  "anibookmark.com": {
+    "address": "#lt_add",
+    "businessName": "#lt_name",
+    "category": "#lt_cat",
+    "city": "#lt_city",
+    "contactName": "#lt_contact_person",
+    "country": "#lt_country",
+    "description": "#description",
+    "email": "#lt_email",
+    "facebook": "#lt_facebook",
+    "phone": "#lt_phone",
+    "state": "#lt_state",
+    "website": "#lt_website",
+    "youtube": "#lt_youtube"
+  }
+
+    
     "globeconnected.com": {
     "address": "textarea[name=\"address\"]",
     "businessName": "#dir-name",
