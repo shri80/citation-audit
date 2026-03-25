@@ -224,11 +224,23 @@
   }
 
     
+  
   "nextbizmaker.com": {
-    "businessName": "#signup_free-element-12",
-    "contactName": "#signup_free-element-10",
-    "description": "#signup_free-element-14"
+    "address": "#member_contact_details_312-element-22",
+    "city": "#member_contact_details_312-element-23",
+    "contactName": "#member_contact_details_312-element-10",
+    "country": "#member_contact_details_312-element-25",
+    "description": "#member_contact_details_312-element-16",
+    "email": "#member_contact_details_312-element-12",
+    "facebook": "#member_contact_details_312-element-34",
+    "instagram": "#member_contact_details_312-element-38",
+    "phone": "#member_contact_details_312-element-13",
+    "state": "#member_contact_details_312-element-24",
+    "website": "#member_contact_details_312-element-31",
+    "youtube": "#member_contact_details_312-element-37",
+    "zip": "#member_contact_details_312-element-28"
   }
+
 
     
   "biztobiz.org": {
