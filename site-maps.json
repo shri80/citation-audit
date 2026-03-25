@@ -222,6 +222,14 @@
     "website": "#web",
     "zip": "#zip"
   }
+
+    
+  "nextbizmaker.com": {
+    "businessName": "#signup_free-element-12",
+    "contactName": "#signup_free-element-10",
+    "description": "#signup_free-element-14"
+  }
+
     
   "biztobiz.org": {
     "address": "#member_contact_details_312-element-22",
